@@ -6,8 +6,8 @@
 
 
   ## 👨‍💻 About me:
-  - 💼 2 años de experiencia en desarrollo wep <br>
-  - 📫 Como contactarme: <b>vellosalejandro02@gmail.com</b><br>
+  - 💼 2 years of experience in web development <br>
+  - 📫 How to contact me: <b>vellosalejandro02@gmail.com</b><br>
   
   ## Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-velloso-56674b2b8/)
