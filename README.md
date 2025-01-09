@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi 👋, I'm Alejandro Velloso</h1>
 
-  <h3 align="center">Developer Full Stack | Python | Django | NodeJS | React | Javascript | PostgreSQL | MongoDB | </h3>
+  <h3 align="center">Developer Full Stack | Python | Django | NodeJS | React | Javascript | SQL | NoSQL | </h3>
   <h4 align="center">from Paraguay 🇵🇾</h4>
 
 
@@ -19,8 +19,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostrgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
