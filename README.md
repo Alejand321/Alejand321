@@ -6,7 +6,7 @@
 
 
   ## 👨‍💻 About me:
-  - 💼 3 years of experience in web development <br>
+  - 💼 2 years of experience in web development <br>
   - 📫 How to contact me: <b>vellosalejandro02@gmail.com</b><br>
   
   ## Connect with me:
